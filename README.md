@@ -3,7 +3,9 @@ Twitter SC Elaborator is a Command Line Application written in Python.
 
 Binaries can be download from page https://github.com/emidelgo/twitter-sc-elaborator/releases.
 
-The application is able to process data from Twitter in [JSON Lines](https://jsonlines.org) format, with tweets' JSON matching the original [Twitter tweet object](https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-model/tweet). It generates 3 xlsx files: one with the tweets, one with users stats and information, one with a adjacency matrix of tokens co-occuring in the same tweet. An applicative example is in this paper: XXXXX
+The application is able to process data from Twitter in [JSON Lines](https://jsonlines.org) format, with tweets' JSON matching the original [Twitter tweet object](https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-model/tweet). It generates 3 xlsx files: one with the tweets, one with users stats and information, one with a adjacency matrix of tokens co-occuring in the same tweet. An applicative example of usage of this application is in the paper:
+
+Russo V., del Gobbo E. Inside Trending Topic Algorithm: How Do Human Interactions Drive Public Opinion in an Artificial Environment. _Social Science Computer Review_. September 2021. [doi:10.1177/08944393211041501](https://doi.org/10.1177/08944393211041501)
 
 
 # Getting started
